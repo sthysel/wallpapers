@@ -1,4 +1,6 @@
-# sweet wallpapers
+# My collection of curious wallpapers
+
+## hyprland using waypaper
 
 ## i3 using feh
 
