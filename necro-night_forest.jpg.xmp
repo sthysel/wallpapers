@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">necro-night forest</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>nighttime</rdf:li>
+          <rdf:li>foggy</rdf:li>
+          <rdf:li>creepy</rdf:li>
+          <rdf:li>ominous</rdf:li>
+          <rdf:li>glowing lights</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>ominous</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>black</rdf:li>
+          <rdf:li>orange</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The image depicts a dark, foggy forest at night, with tall leafless trees and orange lights scattered in the background. It conveys a sense of eerie solitude and the mysteries of nature.</schenesort:scene>
+      <schenesort:width>2560</schenesort:width>
+      <schenesort:height>1600</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">fantasy forest at dusk</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>dusk</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>trees</rdf:li>
+          <rdf:li>wildlife</rdf:li>
+          <rdf:li>artistic</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>mysterious</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art, illustration</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>purple</rdf:li>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>blue</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>twilight or evening</schenesort:time_of_day>
+      <schenesort:subject>nature, fantasy</schenesort:subject>
+      <schenesort:scene>The image depicts a serene landscape of tall trees with slender trunks and leafy canopies, set against a deepening twilight sky that transitions from orange near the horizon to purple higher up. A few small creatures or perhaps mushrooms are visible on the ground amongst the tree roots. The scene evokes a sense of tranquility and the beauty of nature during the transition between day and night.</schenesort:scene>
+      <schenesort:width>2600</schenesort:width>
+      <schenesort:height>1046</schenesort:height>
+      <schenesort:recommended_screen>720p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

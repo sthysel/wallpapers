@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">nighttime forest scene with anomalies.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>night</rdf:li>
+          <rdf:li>fog</rdf:li>
+          <rdf:li>anomalies</rdf:li>
+          <rdf:li>flying saucer</rdf:li>
+          <rdf:li>ufo</rdf:li>
+          <rdf:li>mystery</rdf:li>
+          <rdf:li>science fiction</rdf:li>
+          <rdf:li>aliens</rdf:li>
+          <rdf:li>extraterrestrial</rdf:li>
+          <rdf:li>unknown</rdf:li>
+          <rdf:li>supernatural</rdf:li>
+          <rdf:li>eerie.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>suspenseful</rdf:li>
+          <rdf:li>atmospheric.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art, possibly pixel art due to the style of the anomalies and the forested area's depiction.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>dark blues</rdf:li>
+          <rdf:li>blacks</rdf:li>
+          <rdf:li>grays dominate the scene</rdf:li>
+          <rdf:li>with hints of green from the vegetation.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>nighttime during heavy fog or mist conditions.</schenesort:time_of_day>
+      <schenesort:subject>nature, science fiction, mystery/thriller.</schenesort:subject>
+      <schenesort:scene>The image shows a forested area at night under the cover of heavy fog or mist. The environment is shrouded in darkness, creating an eerie atmosphere. Notably, there appears to be an object that resembles a crashed flying saucer or UFO amidst the trees and vegetation. This unusual element suggests a science fiction theme or perhaps an extraterrestrial presence.</schenesort:scene>
+      <schenesort:width>2880</schenesort:width>
+      <schenesort:height>1440</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

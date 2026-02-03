@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">knights and horses in medieval landscape</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>knights</rdf:li>
+          <rdf:li>horses</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>medieval</rdf:li>
+          <rdf:li>city</rdf:li>
+          <rdf:li>adventure</rdf:li>
+          <rdf:li>historical</rdf:li>
+          <rdf:li>outdoors</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>heroic</rdf:li>
+          <rdf:li>nostalgic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>green</rdf:li>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>gold</rdf:li>
+          <rdf:li>blue</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>either dawn or dusk</schenesort:time_of_day>
+      <schenesort:subject>historical</schenesort:subject>
+      <schenesort:scene>The image depicts three knights on horseback, with one pointing the way towards a distant city. The setting is a grassy field under an expansive sky, suggesting either dawn or dusk due to the soft lighting. The mood is epic and adventurous, capturing a moment in medieval history.</schenesort:scene>
+      <schenesort:width>4000</schenesort:width>
+      <schenesort:height>2600</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

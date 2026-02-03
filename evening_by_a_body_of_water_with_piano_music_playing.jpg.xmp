@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">evening by a body of water with piano music playing.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>evening</rdf:li>
+          <rdf:li>body of water</rdf:li>
+          <rdf:li>piano</rdf:li>
+          <rdf:li>music</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>reflection</rdf:li>
+          <rdf:li>light</rdf:li>
+          <rdf:li>ambiance</rdf:li>
+          <rdf:li>relaxation</rdf:li>
+          <rdf:li>contemplation</rdf:li>
+          <rdf:li>peacefulness</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>calm</rdf:li>
+          <rdf:li>tranquil</rdf:li>
+          <rdf:li>nostalgic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>illustration</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>warm oranges and reds from the sunset blending into purples and pinks as it deepens; cooler blues and greens from the sky and plants.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>evening/dusk</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>The image depicts an evening scene where the sun is setting on one side and there's another glowing light in the distance that might be a reflection or another light source. There's a peaceful ambiance to the scene, suggesting relaxation or contemplation. The water reflects the colors of the sky and clouds above, adding depth to the composition. A piano is visible on the left side of the image, and there are plants around it, contributing to a serene environment.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1200</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

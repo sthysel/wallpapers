@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">post-apocalyptic ruins</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>dystopian</rdf:li>
+          <rdf:li>ruins</rdf:li>
+          <rdf:li>post-apocalyptic</rdf:li>
+          <rdf:li>nature reclaiming space</rdf:li>
+          <rdf:li>dilapidated buildings</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>somber</rdf:li>
+          <rdf:li>eerie</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>dark greens</rdf:li>
+          <rdf:li>mossy browns</rdf:li>
+          <rdf:li>rusty reds and oranges</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>architecture</schenesort:subject>
+      <schenesort:scene>A dilapidated and overgrown cityscape, with a swampy river in the foreground. The artwork features collapsed structures amidst vines, with a sense of decay and abandonment.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1080</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

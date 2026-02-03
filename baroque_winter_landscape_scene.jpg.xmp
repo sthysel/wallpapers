@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">baroque winter landscape scene.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>winter</rdf:li>
+          <rdf:li>village</rdf:li>
+          <rdf:li>trees</rdf:li>
+          <rdf:li>snow-covered</rdf:li>
+          <rdf:li>cold</rdf:li>
+          <rdf:li>art</rdf:li>
+          <rdf:li>painting</rdf:li>
+          <rdf:li>17th century.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>subdued</rdf:li>
+          <rdf:li>wintry.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>oil on canvas painting.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>dark</rdf:li>
+          <rdf:li>muted</rdf:li>
+          <rdf:li>earthy tones with a touch of blue and white.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime during winter season.</schenesort:time_of_day>
+      <schenesort:subject>landscape/village scene</schenesort:subject>
+      <schenesort:width>2048</schenesort:width>
+      <schenesort:height>1458</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

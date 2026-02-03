@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">a tranquil landscape painting.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>tranquility</rdf:li>
+          <rdf:li>country life</rdf:li>
+          <rdf:li>pastoral</rdf:li>
+          <rdf:li>impressionism</rdf:li>
+          <rdf:li>cloudy sky</rdf:li>
+          <rdf:li>tree</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>green for the tree foliage</rdf:li>
+          <rdf:li>blue for the sky</rdf:li>
+          <rdf:li>and various shades of green and brown for the grass and hills.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The scene depicts a serene countryside with rolling hills, a lone tree in the foreground and the horizon marked by a soft blue sky filled with white clouds. It evokes a sense of peacefulness and simplicity.</schenesort:scene>
+      <schenesort:width>3440</schenesort:width>
+      <schenesort:height>1440</schenesort:height>
+      <schenesort:recommended_screen>Ultrawide 1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

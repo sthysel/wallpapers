@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">pink flower field at sunset.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>character</rdf:li>
+          <rdf:li>art</rdf:li>
+          <rdf:li>digital painting</rdf:li>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>tranquil.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>calm</rdf:li>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>reflective.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital artwork with a painterly quality.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>warm yellows and oranges from the setting sun.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunset.</schenesort:time_of_day>
+      <schenesort:subject>nature and character interaction.</schenesort:subject>
+      <schenesort:scene>A character standing in a field of pink flowers as the sun sets, creating a warm glow and casting long shadows. The character has a contemplative expression, looking towards the horizon where clouds are tinged with gold.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2160</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

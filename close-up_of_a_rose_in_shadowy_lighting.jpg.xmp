@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">close-up of a rose in shadowy lighting.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>rose</rdf:li>
+          <rdf:li>flower</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>botanical</rdf:li>
+          <rdf:li>beauty</rdf:li>
+          <rdf:li>bloom</rdf:li>
+          <rdf:li>spring</rdf:li>
+          <rdf:li>garden</rdf:li>
+          <rdf:li>floral</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>romantic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>black</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>dusk or dawn</schenesort:time_of_day>
+      <schenesort:subject>still life</schenesort:subject>
+      <schenesort:scene>The image shows a single pink rose with glossy leaves on a branch, set against a blurred background that suggests an outdoor setting at dusk or dawn. The focus is on the petals and stem of the rose, creating a sense of tranquility.</schenesort:scene>
+      <schenesort:width>6000</schenesort:width>
+      <schenesort:height>4000</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

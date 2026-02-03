@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">tropical beach scene</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>tropical</rdf:li>
+          <rdf:li>beach</rdf:li>
+          <rdf:li>children</rdf:li>
+          <rdf:li>pickup truck</rdf:li>
+          <rdf:li>watermelons</rdf:li>
+          <rdf:li>coconuts</rdf:li>
+          <rdf:li>summer</rdf:li>
+          <rdf:li>vacation</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>vibrant</rdf:li>
+          <rdf:li>happy</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>illustration</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>pink</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>day</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>Two children sitting in the bed of a pickup truck filled with watermelons. The sky is clear and blue, suggesting a bright sunny day at the beach. There are also coconuts scattered around the scene.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2160</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">lighthouse at sunset</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>lighthouse</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>ocean</rdf:li>
+          <rdf:li>waves</rdf:li>
+          <rdf:li>stormy</rdf:li>
+          <rdf:li>seascape</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>melancholic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art, painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>dark orange</rdf:li>
+          <rdf:li>red</rdf:li>
+          <rdf:li>deep blue</rdf:li>
+          <rdf:li>white</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunset</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>The image depicts a lighthouse prominently positioned in the foreground. It stands tall against a dramatic sky of dark orange and red hues, with clouds heavy with rain. The ocean surrounding the lighthouse is turbulent, suggesting strong winds or a storm approaching.</schenesort:scene>
+      <schenesort:width>1755</schenesort:width>
+      <schenesort:height>1097</schenesort:height>
+      <schenesort:recommended_screen>720p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

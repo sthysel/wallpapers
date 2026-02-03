@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">renaissance-style painting of the last supper</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>renaissance art</rdf:li>
+          <rdf:li>christianity</rdf:li>
+          <rdf:li>jesus</rdf:li>
+          <rdf:li>biblical scene</rdf:li>
+          <rdf:li>painting</rdf:li>
+          <rdf:li>religious art</rdf:li>
+          <rdf:li>last supper</rdf:li>
+          <rdf:li>leonardo da vinci</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serious</rdf:li>
+          <rdf:li>solemn</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>browns</rdf:li>
+          <rdf:li>greens</rdf:li>
+          <rdf:li>reds</rdf:li>
+          <rdf:li>oranges</rdf:li>
+          <rdf:li>yellows</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>unknown</schenesort:time_of_day>
+      <schenesort:subject>religious, historical</schenesort:subject>
+      <schenesort:scene>A scene depicting a gathering of people around Jesus at a table in a room with arched windows and a domed ceiling. The figures are dressed in detailed clothing with varying shades of red, blue, yellow, and green, suggesting depth and dimension to their outfits. The table is set with various dishes and food items, indicating a meal setting.</schenesort:scene>
+      <schenesort:width>5193</schenesort:width>
+      <schenesort:height>2926</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

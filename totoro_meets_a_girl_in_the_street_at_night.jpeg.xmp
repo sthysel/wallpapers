@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">totoro meets a girl in the street at night.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>totoro</rdf:li>
+          <rdf:li>studio ghibli</rdf:li>
+          <rdf:li>my neighbor totoro</rdf:li>
+          <rdf:li>anime</rdf:li>
+          <rdf:li>rain</rdf:li>
+          <rdf:li>umbrella</rdf:li>
+          <rdf:li>night street scene</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>whimsical</rdf:li>
+          <rdf:li>nostalgic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>illustration, manga-style art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>muted colors dominated by greys and blacks with hints of pinkish hues on the sky.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>fantasy</schenesort:subject>
+      <schenesort:scene>The image is an illustration showing two characters standing on a street at night. One character appears to be a large, friendly creature resembling Totoro from the Studio Ghibli film "My Neighbor Totoro," with cat-like features and a simple, cuddly appearance. Beside this creature stands a smaller figure holding an umbrella, likely a human girl given her size compared to Totoro. The street is lined with trees, and it's raining lightly, as evidenced by the sheen on the ground and the reflection of the ambient light on the wet surfaces.</schenesort:scene>
+      <schenesort:width>2064</schenesort:width>
+      <schenesort:height>1296</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

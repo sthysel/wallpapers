@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">cute little rodent in a beautiful pond at night.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>rodent</rdf:li>
+          <rdf:li>otter</rdf:li>
+          <rdf:li>beaver</rdf:li>
+          <rdf:li>water</rdf:li>
+          <rdf:li>swimming</rdf:li>
+          <rdf:li>nighttime</rdf:li>
+          <rdf:li>lights</rdf:li>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>wildlife</rdf:li>
+          <rdf:li>water body</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>warm</rdf:li>
+          <rdf:li>gentle</rdf:li>
+          <rdf:li>calm</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>yellow</rdf:li>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>green</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>nighttime</schenesort:time_of_day>
+      <schenesort:subject>wildlife</schenesort:subject>
+      <schenesort:scene>The image depicts a small rodent, possibly an otter or beaver, swimming in the water. The rodent appears to be enjoying itself and has its hands raised as if it's eating something. The environment is serene with lily pads dotting the surface of the water and a warm golden glow illuminates the scene from above.</schenesort:scene>
+      <schenesort:width>2912</schenesort:width>
+      <schenesort:height>1632</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

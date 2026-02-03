@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">flowers on a table</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>still life</rdf:li>
+          <rdf:li>painting</rdf:li>
+          <rdf:li>table</rdf:li>
+          <rdf:li>art</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>calm</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+          <rdf:li>serene</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>yellow</rdf:li>
+          <rdf:li>black</rdf:li>
+          <rdf:li>brown</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>evening or dusk</schenesort:time_of_day>
+      <schenesort:subject>art</schenesort:subject>
+      <schenesort:scene>A still life painting of flowers in a vase. The background is a dark brown or black color with a subtle hint of light shining from the top left corner. There are pink, blue, and yellow flowers arranged in the vase.</schenesort:scene>
+      <schenesort:width>3000</schenesort:width>
+      <schenesort:height>1980</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

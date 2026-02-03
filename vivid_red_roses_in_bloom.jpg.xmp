@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">vivid red roses in bloom</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>garden</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>bloom</rdf:li>
+          <rdf:li>summer</rdf:li>
+          <rdf:li>still life</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>vibrant</rdf:li>
+          <rdf:li>passionate</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>red</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>white</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The image showcases a close-up view of vibrant red roses with dark green leaves, captured during the daytime under natural light. The composition emphasizes the flowers' beauty and detail, with each petal sharply focused against the blurred background.</schenesort:scene>
+      <schenesort:width>3000</schenesort:width>
+      <schenesort:height>2000</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

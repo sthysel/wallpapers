@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">cherry blossom branch in a forest</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>blossom</rdf:li>
+          <rdf:li>cherry</rdf:li>
+          <rdf:li>spring</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>blooming</rdf:li>
+          <rdf:li>seasonal</rdf:li>
+          <rdf:li>floral</rdf:li>
+          <rdf:li>botanical</rdf:li>
+          <rdf:li>tree</rdf:li>
+          <rdf:li>branch</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>romantic</rdf:li>
+          <rdf:li>tranquil</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>purple</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>black</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime or nighttime with natural lighting</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The image captures a close-up of cherry blossoms with delicate petals and green leaves. The background is slightly blurred, emphasizing the tree's branches and the soft pink flowers.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1200</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

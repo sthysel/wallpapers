@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">animation of boat at sunset or sunrise.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>animation</rdf:li>
+          <rdf:li>boat</rdf:li>
+          <rdf:li>water</rdf:li>
+          <rdf:li>sunrise/sunset</rdf:li>
+          <rdf:li>clouds</rdf:li>
+          <rdf:li>sailing</rdf:li>
+          <rdf:li>travel</rdf:li>
+          <rdf:li>adventure</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>calm</rdf:li>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>animation</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>gradient of warm and cool colors indicating either dawn or dusk sky</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunrise/sunset (based on the lighting in the image)</schenesort:time_of_day>
+      <schenesort:subject>travel, journey</schenesort:subject>
+      <schenesort:scene>The image depicts a scene with a stylized boat traveling on calm waters with a cloudy sky above and a gradient of colors indicating either sunrise or sunset. The boat has several figures aboard, which appear to be animated characters from an anime or cartoon show.</schenesort:scene>
+      <schenesort:width>2560</schenesort:width>
+      <schenesort:height>1440</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

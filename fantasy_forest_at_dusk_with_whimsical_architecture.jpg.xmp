@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">fantasy forest at dusk with whimsical architecture</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>architecture</rdf:li>
+          <rdf:li>evening</rdf:li>
+          <rdf:li>mushroom</rdf:li>
+          <rdf:li>lighting</rdf:li>
+          <rdf:li>warmth</rdf:li>
+          <rdf:li>cozy</rdf:li>
+          <rdf:li>whimsical</rdf:li>
+          <rdf:li>cobblestone</rdf:li>
+          <rdf:li>quaint</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>mysterious</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>green</rdf:li>
+          <rdf:li>purple</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>brown</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>evening</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The image depicts a fantastical forest scene during the evening transition where day turns to night. The lighting creates a warm and cozy atmosphere. Noteworthy elements include a quaint, cobblestone house nestled among trees with large mushrooms growing on them. There's a vibrant blue glow that could be from either moonlight or magical energy.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1080</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

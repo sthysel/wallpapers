@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">artwork of fantasy scene with astronomer and celestial equipment.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>astronomy</rdf:li>
+          <rdf:li>history</rdf:li>
+          <rdf:li>celestial</rdf:li>
+          <rdf:li>astrology</rdf:li>
+          <rdf:li>telescope</rdf:li>
+          <rdf:li>antique</rdf:li>
+          <rdf:li>brass</rdf:li>
+          <rdf:li>stone structure</rdf:li>
+          <rdf:li>instruments</rdf:li>
+          <rdf:li>robes</rdf:li>
+          <rdf:li>night sky</rdf:li>
+          <rdf:li>equipment</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+          <rdf:li>enigmatic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art or painting with a high level of detail and an atmospheric quality that suggests a different era.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>dark blues</rdf:li>
+          <rdf:li>metallics</rdf:li>
+          <rdf:li>golds</rdf:li>
+          <rdf:li>whites</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>fantasy</schenesort:subject>
+      <schenesort:scene>A man in robes is seen operating an antique brass telescope on a stone structure surrounded by astrological instruments against the backdrop of a starry night sky. The composition suggests a moment of discovery or observation, possibly from historical times given the style of the equipment.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1080</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

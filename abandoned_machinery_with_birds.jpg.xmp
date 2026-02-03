@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">abandoned machinery with birds.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>abandoned</rdf:li>
+          <rdf:li>machinery</rdf:li>
+          <rdf:li>birds</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>rust</rdf:li>
+          <rdf:li>outdoor</rdf:li>
+          <rdf:li>artistic.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>melancholic</rdf:li>
+          <rdf:li>nostalgic</rdf:li>
+          <rdf:li>tranquil.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>rusty browns</rdf:li>
+          <rdf:li>blues of the sky and bird feathers.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime with ample natural light.</schenesort:time_of_day>
+      <schenesort:subject>still life, nature.</schenesort:subject>
+      <schenesort:scene>The image depicts an outdoor scene where a rusted piece of old machinery is lying on the ground, overgrown with weeds and moss. Several small blue birds are perched on the rusted parts or flying around it, adding life to the otherwise still scene.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1080</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

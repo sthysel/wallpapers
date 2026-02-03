@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">historical scene on beach</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>historical</rdf:li>
+          <rdf:li>beach</rdf:li>
+          <rdf:li>figure</rdf:li>
+          <rdf:li>costume</rdf:li>
+          <rdf:li>sea</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>clouds</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>contemplative</rdf:li>
+          <rdf:li>nostalgic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>oil painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>warm tones</rdf:li>
+          <rdf:li>earthy browns and greens</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>seascape</schenesort:subject>
+      <schenesort:scene>Many figures dressed in period clothing standing on sandy beach with calm water in background.</schenesort:scene>
+      <schenesort:width>4586</schenesort:width>
+      <schenesort:height>2120</schenesort:height>
+      <schenesort:recommended_screen>Ultrawide 1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

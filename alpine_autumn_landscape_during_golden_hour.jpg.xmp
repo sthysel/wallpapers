@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">alpine autumn landscape during golden hour.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>alpine</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>mountains</rdf:li>
+          <rdf:li>autumn</rdf:li>
+          <rdf:li>golden hour</rdf:li>
+          <rdf:li>mist</rdf:li>
+          <rdf:li>fog</rdf:li>
+          <rdf:li>village</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>rural.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>idyllic</rdf:li>
+          <rdf:li>serene.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>warm autumn tones of orange</rdf:li>
+          <rdf:li>yellow</rdf:li>
+          <rdf:li>and green.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>late afternoon during the golden hour.</schenesort:time_of_day>
+      <schenesort:subject>nature, rural landscape.</schenesort:subject>
+      <schenesort:scene>The image shows a serene alpine village nestled in the mountains during the golden hour. There is a beautiful mist that covers the lower parts of the valley and a light fog near the base, while the topmost peaks are bathed in bright sunlight. The autumn trees are vibrant with hues of orange, yellow, and green, indicating the season. The village is small, with traditional wooden buildings that blend harmoniously with the natural surroundings.</schenesort:scene>
+      <schenesort:width>3812</schenesort:width>
+      <schenesort:height>2412</schenesort:height>
+      <schenesort:recommended_screen>Ultrawide 1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

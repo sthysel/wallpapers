@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">gothic castle at twilight</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>gothic</rdf:li>
+          <rdf:li>castle</rdf:li>
+          <rdf:li>architecture</rdf:li>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>moody</rdf:li>
+          <rdf:li>twilight</rdf:li>
+          <rdf:li>atmospheric</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>eerie</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>dark blue</rdf:li>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>and hints of blue-green</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>twilight</schenesort:time_of_day>
+      <schenesort:subject>architecture</schenesort:subject>
+      <schenesort:scene>A hauntingly beautiful and ancient gothic castle stands at dusk, its towers reaching into the sky. The castle is surrounded by a forest with dark, shadowy trees. The ground is wet from recent rain, reflecting the castle's eerie blue light.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1080</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

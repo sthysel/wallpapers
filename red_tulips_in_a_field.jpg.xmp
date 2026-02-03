@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">red tulips in a field</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>spring</rdf:li>
+          <rdf:li>garden</rdf:li>
+          <rdf:li>red tulips</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>vibrant</rdf:li>
+          <rdf:li>refreshing</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>red</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>brown</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>A group of red tulips with green stems and leaves, set against a backdrop of natural greenery. The lighting suggests it might be either morning or late afternoon, as the shadows are soft but not harsh.</schenesort:scene>
+      <schenesort:width>2591</schenesort:width>
+      <schenesort:height>1818</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

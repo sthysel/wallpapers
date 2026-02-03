@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">revolutionary war battle scene.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>american revolution</rdf:li>
+          <rdf:li>battle</rdf:li>
+          <rdf:li>war</rdf:li>
+          <rdf:li>painting</rdf:li>
+          <rdf:li>art</rdf:li>
+          <rdf:li>history</rdf:li>
+          <rdf:li>patriotism</rdf:li>
+          <rdf:li>military</rdf:li>
+          <rdf:li>naval</rdf:li>
+          <rdf:li>seamanship.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>tense</rdf:li>
+          <rdf:li>intense</rdf:li>
+          <rdf:li>dramatic.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>various earth tones</rdf:li>
+          <rdf:li>red and blue accents.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime or dusk, with light from the sky suggesting either dawn or dusk.</schenesort:time_of_day>
+      <schenesort:subject>history</schenesort:subject>
+      <schenesort:scene>Artwork depicts a dramatic moment during the American Revolution with a group of soldiers in a small boat navigating through rough waters, holding an American flag aloft as they approach a fortified position. The mood is tense and intense, capturing a significant historical event.</schenesort:scene>
+      <schenesort:width>2000</schenesort:width>
+      <schenesort:height>1147</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

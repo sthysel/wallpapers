@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">magical carpet ride</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>carpet</rdf:li>
+          <rdf:li>magic</rdf:li>
+          <rdf:li>flying</rdf:li>
+          <rdf:li>adventure</rdf:li>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>city</rdf:li>
+          <rdf:li>wings</rdf:li>
+          <rdf:li>sky</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>enchanting</rdf:li>
+          <rdf:li>dreamy</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>pastel shades of blue</rdf:li>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>and white</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>dusk</schenesort:time_of_day>
+      <schenesort:subject>fantasy</schenesort:subject>
+      <schenesort:scene>The painting depicts a fantasy scene of a figure with wings soaring above a city on an ornate carpet. The sky is filled with clouds and birds, adding to the magical atmosphere.</schenesort:scene>
+      <schenesort:width>2362</schenesort:width>
+      <schenesort:height>1300</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

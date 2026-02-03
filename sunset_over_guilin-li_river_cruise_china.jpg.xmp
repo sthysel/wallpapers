@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">sunset over guilin-li river cruise, china.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>mountains</rdf:li>
+          <rdf:li>cruise</rdf:li>
+          <rdf:li>river</rdf:li>
+          <rdf:li>guilin</rdf:li>
+          <rdf:li>li river</rdf:li>
+          <rdf:li>china</rdf:li>
+          <rdf:li>scenic</rdf:li>
+          <rdf:li>travel</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>reflection</rdf:li>
+          <rdf:li>tranquility</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>outdoors</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>dramatic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>green</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunset</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>The sun is setting behind a mountain range during what appears to be the golden hour, casting a warm glow across the landscape and reflecting on the calm water of the river. There are trees silhouetted against the sky, with their reflections also visible in the water's surface. The overall mood is serene and picturesque, capturing the beauty of this famous tourist destination.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1080</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

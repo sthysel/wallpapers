@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">bearded man in black and white art</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>portrait</rdf:li>
+          <rdf:li>art</rdf:li>
+          <rdf:li>black and white</rdf:li>
+          <rdf:li>illustration</rdf:li>
+          <rdf:li>stylized</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>contemplative</rdf:li>
+          <rdf:li>introspective</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>illustration</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>grayscale</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>indeterminate</schenesort:time_of_day>
+      <schenesort:subject>man</schenesort:subject>
+      <schenesort:scene>The image depicts a stylized illustration of a bearded man wearing a hat and long sleeves. He has his hands clasped together as if in conversation or prayer. His face is serious, and he seems to be the central figure in the composition.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1080</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

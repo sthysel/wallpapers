@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">apocalyptic ruins night.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>apocalypse</rdf:li>
+          <rdf:li>cityscape</rdf:li>
+          <rdf:li>fire</rdf:li>
+          <rdf:li>destruction</rdf:li>
+          <rdf:li>chaos</rdf:li>
+          <rdf:li>ruins</rdf:li>
+          <rdf:li>nighttime</rdf:li>
+          <rdf:li>dystopia.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>ominous</rdf:li>
+          <rdf:li>desolate</rdf:li>
+          <rdf:li>somber.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting or digital art (style can't be definitively determined).</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>dark tones with reds</rdf:li>
+          <rdf:li>oranges</rdf:li>
+          <rdf:li>and yellows from the fires</rdf:li>
+          <rdf:li>contrasting with the muted browns and grays of the ruins and ashes.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>nighttime.</schenesort:time_of_day>
+      <schenesort:subject>urban/architectural.</schenesort:subject>
+      <schenesort:scene>The image depicts a desolate and damaged cityscape under a dark sky, with fire and destruction all around. Notable elements include crumbling architecture, lava, ash-covered ground, and the remnants of urban structures. It conveys a sense of devastation and the end of civilization as we know it.</schenesort:scene>
+      <schenesort:width>3224</schenesort:width>
+      <schenesort:height>2127</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

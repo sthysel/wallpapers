@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">futuristic cityscape at night with massive ball-shaped object in foreground.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>cyberpunk</rdf:li>
+          <rdf:li>futuristic city</rdf:li>
+          <rdf:li>night sky</rdf:li>
+          <rdf:li>massive ball-shaped object</rdf:li>
+          <rdf:li>urban landscape</rdf:li>
+          <rdf:li>science fiction</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>captivating</rdf:li>
+          <rdf:li>otherworldly</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art, possibly with 3d rendering techniques</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>neon pinks</rdf:li>
+          <rdf:li>blues</rdf:li>
+          <rdf:li>purples</rdf:li>
+          <rdf:li>and whites dominate the scene</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>nighttime, given by the starlit sky</schenesort:time_of_day>
+      <schenesort:subject>urban</schenesort:subject>
+      <schenesort:scene>The image depicts a futuristic city under a starlit night sky. In the foreground, there is an enormous white sphere that appears to be floating above the landscape. The city below has neon lights and reflective surfaces, indicating advanced technology or cyberpunk aesthetic.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2114</schenesort:height>
+      <schenesort:recommended_screen>Ultrawide 1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

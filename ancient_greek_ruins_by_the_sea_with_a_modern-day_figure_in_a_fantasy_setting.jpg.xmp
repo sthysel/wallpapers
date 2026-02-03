@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">ancient greek ruins by the sea with a modern-day figure in a fantasy setting.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>ancient</rdf:li>
+          <rdf:li>ruins</rdf:li>
+          <rdf:li>greek</rdf:li>
+          <rdf:li>mythology</rdf:li>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>sea</rdf:li>
+          <rdf:li>village</rdf:li>
+          <rdf:li>modern-day</rdf:li>
+          <rdf:li>adventure</rdf:li>
+          <rdf:li>outdoor</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>cliffside</rdf:li>
+          <rdf:li>3d rendering</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>nostalgic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>beige</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>day</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>A classical Greek village on the coast with ancient ruins nearby and a modern-day character observing from a cliff. The image is rendered in a 3D digital art style, showing vibrant colors of blue, green, brown, and beige. The atmosphere is peaceful and picturesque.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2160</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

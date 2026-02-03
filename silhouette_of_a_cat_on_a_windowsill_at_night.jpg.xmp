@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">silhouette of a cat on a windowsill at night.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>cat</rdf:li>
+          <rdf:li>silhouette</rdf:li>
+          <rdf:li>windowsill</rdf:li>
+          <rdf:li>night</rdf:li>
+          <rdf:li>indoors</rdf:li>
+          <rdf:li>outdoors</rdf:li>
+          <rdf:li>window</rdf:li>
+          <rdf:li>darkness</rdf:li>
+          <rdf:li>shadows</rdf:li>
+          <rdf:li>reflection</rdf:li>
+          <rdf:li>illumination</rdf:li>
+          <rdf:li>glowing eyes</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>nocturnal</rdf:li>
+          <rdf:li>eerie</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art or illustration with a focus on the interplay of light and shadow.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>dark blues</rdf:li>
+          <rdf:li>whites from reflections</rdf:li>
+          <rdf:li>and yellow-orange tones from window's illumination.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>animal portrait</schenesort:subject>
+      <schenesort:scene>A darkened room with a single window that lets in light from outside. The inside is dark and shadowed while the outside view shows the silhouette of a cat sitting near the window, looking out with bright eyes that reflect the indoor light.</schenesort:scene>
+      <schenesort:width>2880</schenesort:width>
+      <schenesort:height>1800</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

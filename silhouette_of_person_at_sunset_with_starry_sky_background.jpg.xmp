@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">silhouette of person at sunset with starry sky background</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>silhouette</rdf:li>
+          <rdf:li>person</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>starry-sky</rdf:li>
+          <rdf:li>solitude</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>tranquil</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+          <rdf:li>hopeful</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>purple</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunset</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>A lone figure gazing out towards a radiant sun, as the sky transitions from day to night. The scene captures the warm orange hue of the setting or rising sun and contrasts it with the cool blues and purples of the night sky. Silhouetted trees line the horizon against the vibrant celestial backdrop.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2160</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

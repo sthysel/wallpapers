@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">silhouette of traditional bridge during sunset.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>traditional bridge</rdf:li>
+          <rdf:li>sunset/sunrise</rdf:li>
+          <rdf:li>japanese architecture</rdf:li>
+          <rdf:li>silhouette</rdf:li>
+          <rdf:li>wooden structure</rdf:li>
+          <rdf:li>cultural landmark</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>mystical</rdf:li>
+          <rdf:li>nostalgic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>red</rdf:li>
+          <rdf:li>purple</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>twilight (dusk) or dawn</schenesort:time_of_day>
+      <schenesort:subject>cultural landmark, scenery</schenesort:subject>
+      <schenesort:scene>The image depicts a traditional Japanese wooden bridge silhouetted against the warm glowing sky at sunset or sunrise. The bridge is constructed of wood and has an arching design with no visible railings, creating a sense of isolation in the scene. There are birds flying across the bridge, adding a dynamic element to the stillness of the scene. The surrounding environment consists of leafless trees and misty grasses, reinforcing the tranquility of the setting.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2160</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

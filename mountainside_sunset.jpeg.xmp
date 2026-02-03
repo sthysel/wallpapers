@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">mountainside sunset</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>mountains</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>sunrise</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>tranquil</rdf:li>
+          <rdf:li>reflection</rdf:li>
+          <rdf:li>calm</rdf:li>
+          <rdf:li>nature</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>dramatic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>warm orange and yellow tones in the sky contrasting with the cool greens of the forest.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>either at dawn or dusk, as indicated by the low sun angle in the sky.</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The image depicts a tranquil mountain landscape at either sunrise or sunset, with the warm light of the setting sun illuminating the peaks and creating a serene atmosphere. The foreground features a lake reflecting the colors of the sky, surrounded by verdant trees and grass.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2160</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

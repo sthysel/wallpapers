@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">mysterious forest at dusk</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>mist</rdf:li>
+          <rdf:li>dawn/dusk</rdf:li>
+          <rdf:li>foggy</rdf:li>
+          <rdf:li>atmospheric</rdf:li>
+          <rdf:li>scenic</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>ethereal</rdf:li>
+          <rdf:li>calm</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art with a photorealistic touch in terms of textures and lighting effects</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>blues</rdf:li>
+          <rdf:li>greys</rdf:li>
+          <rdf:li>whites</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>dusk or dawn</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The image depicts a forested landscape at either dawn or dusk given the soft lighting and mist. The scene is composed with fog gently rolling in over the treetops, casting a blue-grey hue over the entire scene. The trees are scattered throughout the area, some tall with dense foliage while others are smaller and leafless, possibly due to the season or the presence of mist.</schenesort:scene>
+      <schenesort:width>2048</schenesort:width>
+      <schenesort:height>1152</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

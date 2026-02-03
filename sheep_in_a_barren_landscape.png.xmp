@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">sheep in a barren landscape</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>sheep</rdf:li>
+          <rdf:li>birds</rdf:li>
+          <rdf:li>desolate</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>oil painting</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>melancholic</rdf:li>
+          <rdf:li>somber</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>earth tones</rdf:li>
+          <rdf:li>blacks and browns</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>wildlife</schenesort:subject>
+      <schenesort:scene>An oil painting depicts a lone sheep sitting on the ground amidst an avian menace. The sky is dark and foreboding, enhancing the sense of isolation. The background is minimalistic with few details to suggest location or time.</schenesort:scene>
+      <schenesort:width>2081</schenesort:width>
+      <schenesort:height>1263</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

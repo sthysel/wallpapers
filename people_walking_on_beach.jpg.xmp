@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">people walking on beach</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>beach</rdf:li>
+          <rdf:li>ocean</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>history</rdf:li>
+          <rdf:li>social gathering</rdf:li>
+          <rdf:li>seaside</rdf:li>
+          <rdf:li>leisure</rdf:li>
+          <rdf:li>period dress</rdf:li>
+          <rdf:li>travel</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>social</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>earth tones with some cool blues in the sky</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>A group of people in mid-stride, dressed in period clothing, appear to be heading towards the sea. The sky is cloudy, suggesting it might be late afternoon or early evening.</schenesort:scene>
+      <schenesort:width>4586</schenesort:width>
+      <schenesort:height>2120</schenesort:height>
+      <schenesort:recommended_screen>Ultrawide 1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

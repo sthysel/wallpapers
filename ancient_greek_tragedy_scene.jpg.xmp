@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">ancient greek tragedy scene</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>tragedy</rdf:li>
+          <rdf:li>ancient greece</rdf:li>
+          <rdf:li>drama</rdf:li>
+          <rdf:li>theatre</rdf:li>
+          <rdf:li>classical art</rdf:li>
+          <rdf:li>historical</rdf:li>
+          <rdf:li>mythology</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>tragic</rdf:li>
+          <rdf:li>tense</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>rich earth tones</rdf:li>
+          <rdf:li>deep blues</rdf:li>
+          <rdf:li>and subtle golds</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>history, literature, mythology</schenesort:subject>
+      <schenesort:scene>A room filled with people, one woman on a bed in the center is being attended to by another woman. The audience surrounds them, engrossed in the unfolding events.</schenesort:scene>
+      <schenesort:width>5284</schenesort:width>
+      <schenesort:height>4040</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

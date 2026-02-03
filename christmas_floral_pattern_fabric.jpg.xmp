@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">christmas floral pattern fabric.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>christmas</rdf:li>
+          <rdf:li>fabric</rdf:li>
+          <rdf:li>pattern</rdf:li>
+          <rdf:li>floral</rdf:li>
+          <rdf:li>decoration</rdf:li>
+          <rdf:li>festive</rdf:li>
+          <rdf:li>seasonal</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>festive</rdf:li>
+          <rdf:li>cozy</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>illustrated</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>green</rdf:li>
+          <rdf:li>gold</rdf:li>
+          <rdf:li>red</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>seasonal</schenesort:time_of_day>
+      <schenesort:subject>holiday decoration</schenesort:subject>
+      <schenesort:scene>A decorative fabric with a Christmas theme featuring foliage and floral elements along with berries in shades of green, gold, and red on a neutral background.</schenesort:scene>
+      <schenesort:width>1800</schenesort:width>
+      <schenesort:height>1152</schenesort:height>
+      <schenesort:recommended_screen>720p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">bird perched on red flowers.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>birds</rdf:li>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>wildlife</rdf:li>
+          <rdf:li>tranquil</rdf:li>
+          <rdf:li>colorful</rdf:li>
+          <rdf:li>daytime</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>vibrant</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>red</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>yellow</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>day</schenesort:time_of_day>
+      <schenesort:subject>wildlife</schenesort:subject>
+      <schenesort:scene>A small bird with a vibrant red crest is sitting on top of red flowers. The bird seems to be looking into the distance. There's a clear sky in the background which gives a calm and serene atmosphere to the scene. The flower's red color stands out against the natural tones, highlighting the bird and the flora as the main subjects of this image.</schenesort:scene>
+      <schenesort:width>6165</schenesort:width>
+      <schenesort:height>4108</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

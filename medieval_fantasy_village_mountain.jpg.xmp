@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">medieval fantasy village mountain</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>medieval</rdf:li>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>village</rdf:li>
+          <rdf:li>mountain</rdf:li>
+          <rdf:li>architecture</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>illustration</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>nostalgic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>green</rdf:li>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>blue</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>day</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>This image portrays a scenic view of a medieval fantasy village nestled at the base of a towering mountain range. The village appears quaint with thatched roofs and stone walls, and there are a few birds visible in the sky. The landscape is bathed in soft sunlight filtering through scattered clouds, giving a serene atmosphere to the scene.</schenesort:scene>
+      <schenesort:width>1500</schenesort:width>
+      <schenesort:height>810</schenesort:height>
+      <schenesort:recommended_screen>720p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

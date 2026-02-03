@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">fantasy village landscape.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>village</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>mountain</rdf:li>
+          <rdf:li>waterfall</rdf:li>
+          <rdf:li>church</rdf:li>
+          <rdf:li>morning</rdf:li>
+          <rdf:li>late afternoon</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>serene</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>green</rdf:li>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>stone</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>day</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The image depicts a tranquil fantasy village nestled at the base of a mountain with a waterfall in the background. The scene is bathed in daylight, suggesting it might be morning or late afternoon. There are several structures visible, including houses and a church, all designed in a quaint, old-fashioned style typical of medieval fantasy settings.</schenesort:scene>
+      <schenesort:width>2560</schenesort:width>
+      <schenesort:height>1527</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

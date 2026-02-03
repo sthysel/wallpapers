@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">underwater volcanic island at dusk</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>underwater</rdf:li>
+          <rdf:li>volcanic island</rdf:li>
+          <rdf:li>dusk</rdf:li>
+          <rdf:li>lava</rdf:li>
+          <rdf:li>submerged</rdf:li>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>landscape</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>serene</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art, 3d render</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>deep blue</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>yellow</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>dusk</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The image captures an otherworldly landscape, where a submerged volcano emits glowing green lava amidst the deep blue waters. Tall cliffs and jagged rocks dominate the foreground, while clouds and the sky's color gradient hint at the setting sun.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1080</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

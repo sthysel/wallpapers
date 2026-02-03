@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">vintage pirate ship at sea</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>ship</rdf:li>
+          <rdf:li>ocean</rdf:li>
+          <rdf:li>historical</rdf:li>
+          <rdf:li>pirate</rdf:li>
+          <rdf:li>wooden</rdf:li>
+          <rdf:li>stormy</rdf:li>
+          <rdf:li>adventure</rdf:li>
+          <rdf:li>danger</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>intense</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>3d render</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>black</rdf:li>
+          <rdf:li>dark blues</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>maritime</schenesort:subject>
+      <schenesort:scene>An old wooden ship is sailing on rough waves with a group of pirates aboard. The sky is darkening and the ship has multiple sails unfurled, creating an atmosphere of adventure and danger. Notably, the ship's hull is damaged with missing planks, suggesting recent combat or perilous waters.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1037</schenesort:height>
+      <schenesort:recommended_screen>720p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

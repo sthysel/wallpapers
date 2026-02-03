@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">grand canyon at sunset</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>desert</rdf:li>
+          <rdf:li>canyon</rdf:li>
+          <rdf:li>mountain range</rdf:li>
+          <rdf:li>national park</rdf:li>
+          <rdf:li>travel destination</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>majestic</rdf:li>
+          <rdf:li>serene</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>red</rdf:li>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>white</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunset</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>Mountains in the foreground with a clear sky above. The colors of the mountains contrast sharply against the sky.</schenesort:scene>
+      <schenesort:width>2880</schenesort:width>
+      <schenesort:height>1800</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

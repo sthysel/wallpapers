@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">baroque landscape painting with trees and a church in distance.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>art</rdf:li>
+          <rdf:li>baroque</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>trees</rdf:li>
+          <rdf:li>church</rdf:li>
+          <rdf:li>field</rdf:li>
+          <rdf:li>clouds</rdf:li>
+          <rdf:li>rural</rdf:li>
+          <rdf:li>pastoral</rdf:li>
+          <rdf:li>countryside</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>painting</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>landscape painting</rdf:li>
+          <rdf:li>outdoor scene</rdf:li>
+          <rdf:li>natural scenery.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>tranquil</rdf:li>
+          <rdf:li>contemplative.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>oil on canvas.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>green</rdf:li>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>yellow</rdf:li>
+          <rdf:li>blue.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>evening or dusk.</schenesort:time_of_day>
+      <schenesort:subject>nature, rural, pastoral, landscape, artwork.</schenesort:subject>
+      <schenesort:scene>A rural landscape dominated by tall green trees under a partly cloudy sky. The sun is setting on the horizon.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1080</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

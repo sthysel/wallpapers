@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">abstract map of a city.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>map</rdf:li>
+          <rdf:li>city</rdf:li>
+          <rdf:li>abstract</rdf:li>
+          <rdf:li>artistic</rdf:li>
+          <rdf:li>urban</rdf:li>
+          <rdf:li>stylized</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>calm</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>abstract art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>grayscale</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>day</schenesort:time_of_day>
+      <schenesort:subject>urban</schenesort:subject>
+      <schenesort:scene>A map with roads and landmarks is stylized to look like an abstract painting. The colors are muted with shades of gray, black, and white predominating the image.</schenesort:scene>
+      <schenesort:width>4608</schenesort:width>
+      <schenesort:height>2592</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

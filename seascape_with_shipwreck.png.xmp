@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">seascape with shipwreck</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>sea</rdf:li>
+          <rdf:li>storm</rdf:li>
+          <rdf:li>shipwreck</rdf:li>
+          <rdf:li>sailors</rdf:li>
+          <rdf:li>ocean</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>drama</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>dramatic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>green</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunset</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>A dramatic seascape painting showing a stormy ocean scene at sunset. The waves are crashing around the remains of a shipwreck in the foreground. Sailors are clinging to floating debris as they attempt to survive. The sky transitions from deep blue to warm orange, indicating either dawn or dusk.</schenesort:scene>
+      <schenesort:width>5090</schenesort:width>
+      <schenesort:height>3420</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

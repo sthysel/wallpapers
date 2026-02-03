@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">moonlit cabin at twilight</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>cabin</rdf:li>
+          <rdf:li>twilight</rdf:li>
+          <rdf:li>moonlight</rdf:li>
+          <rdf:li>reflection</rdf:li>
+          <rdf:li>night</rdf:li>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>magical</rdf:li>
+          <rdf:li>cozy</rdf:li>
+          <rdf:li>lake</rdf:li>
+          <rdf:li>woods</rdf:li>
+          <rdf:li>nature</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>romantic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>purple</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>orange</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>A serene and magical scene of a cozy cabin nestled on the edge of a lake under a vibrant moonlit sky. The reflections on the water's surface are like glimmering stars, and the forest in the background adds to the mystique.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2160</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

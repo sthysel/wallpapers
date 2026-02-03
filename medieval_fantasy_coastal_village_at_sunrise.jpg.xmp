@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">medieval fantasy coastal village at sunrise.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>medieval</rdf:li>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>coastal</rdf:li>
+          <rdf:li>village</rdf:li>
+          <rdf:li>sunrise</rdf:li>
+          <rdf:li>architecture</rdf:li>
+          <rdf:li>sailing ships</rdf:li>
+          <rdf:li>cobblestone</rdf:li>
+          <rdf:li>stone buildings</rdf:li>
+          <rdf:li>blue skies.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>whimsical</rdf:li>
+          <rdf:li>nostalgic.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>3d digital art or illustration with a hand-painted texture quality.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>pastel blues</rdf:li>
+          <rdf:li>greens</rdf:li>
+          <rdf:li>and earth tones.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>morning sunrise.</schenesort:time_of_day>
+      <schenesort:subject>landscape, architecture.</schenesort:subject>
+      <schenesort:scene>A picturesque village with traditional architecture built on the edge of a bay, featuring sailing ships and blue skies with subtle hints of morning fog.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>1707</schenesort:height>
+      <schenesort:recommended_screen>Ultrawide 1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

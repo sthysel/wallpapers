@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">abstract digital art with stars and particles</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>abstract</rdf:li>
+          <rdf:li>digital art</rdf:li>
+          <rdf:li>particles</rdf:li>
+          <rdf:li>stars</rdf:li>
+          <rdf:li>space</rdf:li>
+          <rdf:li>cosmic</rdf:li>
+          <rdf:li>night</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>cosmic</rdf:li>
+          <rdf:li>tranquil</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>dark</rdf:li>
+          <rdf:li>black</rdf:li>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>white</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>abstract</schenesort:subject>
+      <schenesort:scene>This is a digital creation that appears to show an abstract space filled with what looks like stars or particles. The background is dark with hints of black and brown, suggesting a cosmic or interstellar theme.</schenesort:scene>
+      <schenesort:width>4053</schenesort:width>
+      <schenesort:height>2280</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

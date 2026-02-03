@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">pink flower with dew drops on petals.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>flower</rdf:li>
+          <rdf:li>dew drops</rdf:li>
+          <rdf:li>raindrops</rdf:li>
+          <rdf:li>petals</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>close-up</rdf:li>
+          <rdf:li>garden</rdf:li>
+          <rdf:li>field</rdf:li>
+          <rdf:li>daylight</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>delicate</rdf:li>
+          <rdf:li>tranquil</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>white (dew drops)</rdf:li>
+          <rdf:li>green (foliage)</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>Close-up of a cluster of flowers with raindrops glistening on their surfaces. The petals are soft and delicate with a pink hue, while the centers display orange and yellow tones. The background is slightly blurred but appears to be a garden or field during daylight.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2160</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

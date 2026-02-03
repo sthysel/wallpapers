@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">viking ship in a stormy sky</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>viking ship</rdf:li>
+          <rdf:li>stormy sea</rdf:li>
+          <rdf:li>longship</rdf:li>
+          <rdf:li>sailors</rdf:li>
+          <rdf:li>danger</rdf:li>
+          <rdf:li>adventure</rdf:li>
+          <rdf:li>historical</rdf:li>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>conflict</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>tense</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>dark blues</rdf:li>
+          <rdf:li>greys</rdf:li>
+          <rdf:li>muted browns and greens</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>history, adventure</schenesort:subject>
+      <schenesort:scene>A massive Viking longship, battered by a storm, sinks below the surface of dark waters. A crew of warriors struggle on its deck amidst the chaos of the tempest. Sharp spires rise from the surrounding icebergs and jagged rocks, while an ominous sky looms overhead.</schenesort:scene>
+      <schenesort:width>2560</schenesort:width>
+      <schenesort:height>1440</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

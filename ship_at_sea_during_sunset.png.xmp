@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">ship at sea during sunset</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>ship</rdf:li>
+          <rdf:li>ocean</rdf:li>
+          <rdf:li>sailing</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>maritime</rdf:li>
+          <rdf:li>silhouette</rdf:li>
+          <rdf:li>horizon</rdf:li>
+          <rdf:li>clouds</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>reflection</rdf:li>
+          <rdf:li>water</rdf:li>
+          <rdf:li>colors</rdf:li>
+          <rdf:li>stormy</rdf:li>
+          <rdf:li>calm</rdf:li>
+          <rdf:li>beauty</rdf:li>
+          <rdf:li>tranquility</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>vibrant</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art (digital painting)</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>red</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>black</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunset</schenesort:time_of_day>
+      <schenesort:subject>maritime</schenesort:subject>
+      <schenesort:scene>A three-mast ship with its sails furled on the water. The sky is painted with hues of orange and red from the setting sun. There are some clouds in the sky, contributing to a dramatic atmosphere. The water has a few ripples, indicating a calm sea.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2160</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

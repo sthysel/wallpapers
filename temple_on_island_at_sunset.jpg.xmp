@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">temple on island at sunset</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>temple</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>reflection</rdf:li>
+          <rdf:li>tranquility</rdf:li>
+          <rdf:li>cultural landmark</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>warm oranges</rdf:li>
+          <rdf:li>cool blues</rdf:li>
+          <rdf:li>greenery of trees and vegetation</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>evening</schenesort:time_of_day>
+      <schenesort:subject>architecture</schenesort:subject>
+      <schenesort:scene>The Temple of Heaven in Beijing, China, viewed from across a serene lake with mountains and trees in the distance. The sky is clear with soft clouds reflecting in the water.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2400</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

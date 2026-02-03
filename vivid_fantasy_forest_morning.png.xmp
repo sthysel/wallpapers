@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">vivid fantasy forest morning</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>morning</rdf:li>
+          <rdf:li>stream</rdf:li>
+          <rdf:li>sunlight</rdf:li>
+          <rdf:li>magical</rdf:li>
+          <rdf:li>verdant</rdf:li>
+          <rdf:li>vivid</rdf:li>
+          <rdf:li>landscape</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>mystical</rdf:li>
+          <rdf:li>hopeful</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>green</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>yellow</rdf:li>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>red</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>morning</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The image depicts a vibrant and fantastical forest landscape at morning. A stream meanders through the scene, reflecting light from the sun as it peeks through the canopy of leaves and branches that form a natural archway overhead. The ground is lush with greenery, including plants and trees in hues of blue, yellow, and red, contributing to the enchanting atmosphere.</schenesort:scene>
+      <schenesort:width>4608</schenesort:width>
+      <schenesort:height>2048</schenesort:height>
+      <schenesort:recommended_screen>Ultrawide 1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">cosmic rose in magma</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>rose</rdf:li>
+          <rdf:li>magma</rdf:li>
+          <rdf:li>stars</rdf:li>
+          <rdf:li>nebula</rdf:li>
+          <rdf:li>fiery</rdf:li>
+          <rdf:li>swirl</rdf:li>
+          <rdf:li>cosmic</rdf:li>
+          <rdf:li>vibrant</rdf:li>
+          <rdf:li>fantasy</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>intense</rdf:li>
+          <rdf:li>otherworldly</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>red</rdf:li>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>yellow</rdf:li>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>purple</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>fantasy</schenesort:subject>
+      <schenesort:scene>A fiery red rose emerges from molten lava surrounded by swirling patterns of stars and cosmic elements. The image conveys a dramatic blend of nature and celestial elements, with the rose symbolizing life amidst a chaotic universe.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2160</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

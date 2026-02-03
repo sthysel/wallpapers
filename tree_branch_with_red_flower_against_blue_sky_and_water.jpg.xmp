@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">tree branch with red flower against blue sky and water.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>trees</rdf:li>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>sunlight</rdf:li>
+          <rdf:li>reflection</rdf:li>
+          <rdf:li>tranquil</rdf:li>
+          <rdf:li>photography</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>refreshing</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>green</rdf:li>
+          <rdf:li>red</rdf:li>
+          <rdf:li>blue</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>Photograph taken in the day with bright lighting shining through the leaves of a tree onto the water below. The tree has green foliage and a single red flower is visible among the branches. The image shows a peaceful natural setting with a clear blue sky dotted with clouds, sunshine casting an illumination on the scene below.</schenesort:scene>
+      <schenesort:width>6000</schenesort:width>
+      <schenesort:height>4000</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

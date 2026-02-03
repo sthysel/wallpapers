@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">wolf in the misty morning</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>wolf</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>wildlife</rdf:li>
+          <rdf:li>mist</rdf:li>
+          <rdf:li>beach</rdf:li>
+          <rdf:li>fog</rdf:li>
+          <rdf:li>rain</rdf:li>
+          <rdf:li>clouds</rdf:li>
+          <rdf:li>dawn</rdf:li>
+          <rdf:li>dusk</rdf:li>
+          <rdf:li>digital art</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>introspective</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>grey</rdf:li>
+          <rdf:li>orange hues from the sky and light reflection on the water.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>early morning or late afternoon</schenesort:time_of_day>
+      <schenesort:subject>nature, wildlife</schenesort:subject>
+      <schenesort:scene>A lone wolf stands on a beach amidst a light fog or rain, with its mane blowing in the wind. The sky is cloudy and grey, suggesting an early morning or late afternoon time of day. The overall atmosphere is serene yet dramatic, emphasizing the solitude of the wolf.</schenesort:scene>
+      <schenesort:width>3840</schenesort:width>
+      <schenesort:height>2160</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

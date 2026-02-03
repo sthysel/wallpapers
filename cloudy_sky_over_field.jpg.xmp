@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">cloudy sky over field</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>field</rdf:li>
+          <rdf:li>cloudy sky</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>vibrant colors</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>calm</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art or painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>pastel shades of blue</rdf:li>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>and white</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime with a changeable sky</schenesort:time_of_day>
+      <schenesort:subject>natural scenery</schenesort:subject>
+      <schenesort:scene>This image depicts a vivid and lush field under a vast cloudy sky. The sun is low on the horizon, suggesting either sunrise or sunset. The clouds are large, puffy, and white with some pink and orange hues near the bottom of the image, indicating that the lighting conditions may be changing rapidly.</schenesort:scene>
+      <schenesort:width>2560</schenesort:width>
+      <schenesort:height>1440</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

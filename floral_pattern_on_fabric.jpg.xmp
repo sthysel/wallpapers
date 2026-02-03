@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">floral pattern on fabric</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>fabric</rdf:li>
+          <rdf:li>floral pattern</rdf:li>
+          <rdf:li>print</rdf:li>
+          <rdf:li>texture</rdf:li>
+          <rdf:li>embroidery</rdf:li>
+          <rdf:li>black</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>design</rdf:li>
+          <rdf:li>craftsmanship</rdf:li>
+          <rdf:li>clothing</rdf:li>
+          <rdf:li>fashion</rdf:li>
+          <rdf:li>decorative</rdf:li>
+          <rdf:li>ornamental</rdf:li>
+          <rdf:li>artisanal</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>elegant</rdf:li>
+          <rdf:li>timeless</rdf:li>
+          <rdf:li>classic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>black</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>pink</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>not applicable</schenesort:time_of_day>
+      <schenesort:subject>textiles</schenesort:subject>
+      <schenesort:scene>This image displays a close-up view of a piece of fabric with a floral pattern. The flowers are intricately designed with various shades of color that create a detailed and textured appearance. The fabric has a dark background, which contrasts with the lighter colors of the floral design, making it stand out prominently in the composition.</schenesort:scene>
+      <schenesort:width>1600</schenesort:width>
+      <schenesort:height>980</schenesort:height>
+      <schenesort:recommended_screen>720p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

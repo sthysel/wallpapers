@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">colorful koi fish swimming in a garden pond at night under starlight.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>koi</rdf:li>
+          <rdf:li>fish</rdf:li>
+          <rdf:li>garden</rdf:li>
+          <rdf:li>pond</rdf:li>
+          <rdf:li>night</rdf:li>
+          <rdf:li>stars</rdf:li>
+          <rdf:li>colorful</rdf:li>
+          <rdf:li>vibrant</rdf:li>
+          <rdf:li>aquatic</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>underwater view</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>magical</rdf:li>
+          <rdf:li>tranquil</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art with a painterly effect to mimic watercolor on paper.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>red</rdf:li>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>yellow</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>blue</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>wildlife</schenesort:subject>
+      <schenesort:scene>The image features two koi fish swimming towards the viewer with glowing scales and a dark background illuminated by starlight. There is also a hint of foliage on the left side that suggests a natural setting.</schenesort:scene>
+      <schenesort:width>2000</schenesort:width>
+      <schenesort:height>1333</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

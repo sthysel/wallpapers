@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">pink roses in a still life painting.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>still life</rdf:li>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>roses</rdf:li>
+          <rdf:li>painting</rdf:li>
+          <rdf:li>floral</rdf:li>
+          <rdf:li>romantic</rdf:li>
+          <rdf:li>soft lighting</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>gentle</rdf:li>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>loving</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>green</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime (indicated by the soft light on the petals)</schenesort:time_of_day>
+      <schenesort:subject>floral</schenesort:subject>
+      <schenesort:scene>Roses arranged in a glass vase with water, set against a muted background that suggests an indoor setting. The lighting casts soft shadows across the petals and stems, indicating diffuse natural or artificial light.</schenesort:scene>
+      <schenesort:width>5137</schenesort:width>
+      <schenesort:height>3564</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

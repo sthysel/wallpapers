@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">fields at harvest time</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>peasantry</rdf:li>
+          <rdf:li>agriculture</rdf:li>
+          <rdf:li>rural life</rdf:li>
+          <rdf:li>harvest</rdf:li>
+          <rdf:li>farming</rdf:li>
+          <rdf:li>historical</rdf:li>
+          <rdf:li>impressionism</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>hardworking</rdf:li>
+          <rdf:li>hopeful</rdf:li>
+          <rdf:li>industrious</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>yellow-green hues from the crops</rdf:li>
+          <rdf:li>earth tones for clothing and buildings.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>Peasants working together in a field, bending over to collect crops. The sun casts a warm glow on the scene. Farm buildings can be seen in the distance under a blue sky with a few clouds.</schenesort:scene>
+      <schenesort:width>5354</schenesort:width>
+      <schenesort:height>4006</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

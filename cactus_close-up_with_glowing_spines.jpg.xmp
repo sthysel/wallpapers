@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">cactus close-up with glowing spines.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>cactus</rdf:li>
+          <rdf:li>close-up</rdf:li>
+          <rdf:li>blacklight</rdf:li>
+          <rdf:li>glowing</rdf:li>
+          <rdf:li>star-shaped</rdf:li>
+          <rdf:li>small plants</rdf:li>
+          <rdf:li>bioluminescence.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>surreal</rdf:li>
+          <rdf:li>vivid</rdf:li>
+          <rdf:li>mysterious.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography with a creative twist to highlight the plant's natural fluorescent properties.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>yellow</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>black</rdf:li>
+          <rdf:li>and other darker tones created by the black light effect.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>nighttime, illuminated by artificial lighting.</schenesort:time_of_day>
+      <schenesort:subject>botany, bioluminescence, night photography.</schenesort:subject>
+      <schenesort:scene>A cactus emerging from soil, surrounded by small plants, with a focus on its unique star-shaped spines illuminated under a black light to reveal blue and yellow hues within the white and green surface of the plant's skin.</schenesort:scene>
+      <schenesort:width>5745</schenesort:width>
+      <schenesort:height>3820</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

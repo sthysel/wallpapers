@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">sunny meadow with trees.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>field</rdf:li>
+          <rdf:li>meadow</rdf:li>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>path</rdf:li>
+          <rdf:li>river</rdf:li>
+          <rdf:li>shoreline</rdf:li>
+          <rdf:li>blue sky</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>idyllic</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>calm</rdf:li>
+          <rdf:li>serene</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>green</rdf:li>
+          <rdf:li>yellow</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>white</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>A path through a field of flowers leads to a picturesque shoreline under a blue sky. The day is bright and sunny, casting long shadows on the ground. There's a tranquil atmosphere with soft clouds in the sky above the tree line.</schenesort:scene>
+      <schenesort:width>3904</schenesort:width>
+      <schenesort:height>2240</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

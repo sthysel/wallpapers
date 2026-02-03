@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">mediterranean island beach view</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>beach</rdf:li>
+          <rdf:li>coastline</rdf:li>
+          <rdf:li>lagoon</rdf:li>
+          <rdf:li>rock formation</rdf:li>
+          <rdf:li>mediterranean</rdf:li>
+          <rdf:li>clear day</rdf:li>
+          <rdf:li>seaside</rdf:li>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>boat</rdf:li>
+          <rdf:li>natural barrier</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>water</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>sea</rdf:li>
+          <rdf:li>tourist location</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>tranquil</rdf:li>
+          <rdf:li>picturesque</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>beige</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>day</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>The image captures a serene seaside vista on a clear day with a backdrop of a blue lagoon. A large rock protrusion extends into the crystal blue waters, creating a natural barrier that separates the two halves of the sea. There are several boats moored at the base of the rocks, and patches of greenery dot the landscape, suggesting a warm climate environment.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1200</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

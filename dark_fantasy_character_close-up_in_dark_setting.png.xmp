@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">dark fantasy character close-up in dark setting.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>horror</rdf:li>
+          <rdf:li>character</rdf:li>
+          <rdf:li>close-up</rdf:li>
+          <rdf:li>intense</rdf:li>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>dark</rdf:li>
+          <rdf:li>blurred background</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>tense</rdf:li>
+          <rdf:li>ominous</rdf:li>
+          <rdf:li>eerie</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>dark greys</rdf:li>
+          <rdf:li>blacks</rdf:li>
+          <rdf:li>hints of warm orange tones in eyes or highlights.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night or darkness</schenesort:time_of_day>
+      <schenesort:subject>fiction/fantasy</schenesort:subject>
+      <schenesort:scene>The image depicts a character with an intense gaze and contorted facial expression set against a blurred, dark background that suggests decay or destruction. The composition is centered and tightly framed around the character's face and shoulders, emphasizing the dramatic lighting and tension in the expression.</schenesort:scene>
+      <schenesort:width>8736</schenesort:width>
+      <schenesort:height>4896</schenesort:height>
+      <schenesort:recommended_screen>8K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

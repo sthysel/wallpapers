@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">sun with asteroid debris.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>sun</rdf:li>
+          <rdf:li>asteroids</rdf:li>
+          <rdf:li>space</rdf:li>
+          <rdf:li>astronomy</rdf:li>
+          <rdf:li>celestial bodies</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>intense</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>3d render</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>yellow</rdf:li>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>black</rdf:li>
+          <rdf:li>gray</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>unknown (it's not day or night)</schenesort:time_of_day>
+      <schenesort:subject>space</schenesort:subject>
+      <schenesort:scene>The image depicts a close-up of the sun surrounded by asteroid debris. It has a dramatic and impactful composition, highlighting the intense heat of the star amidst its surrounding material.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1200</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

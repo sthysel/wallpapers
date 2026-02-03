@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">mythical nymphs in a forest underworld.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>mythological creatures</rdf:li>
+          <rdf:li>classical figures</rdf:li>
+          <rdf:li>forest underworld</rdf:li>
+          <rdf:li>enchanted</rdf:li>
+          <rdf:li>fantastical</rdf:li>
+          <rdf:li>nymphs</rdf:li>
+          <rdf:li>faeries</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mystical</rdf:li>
+          <rdf:li>serene</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>earth tones</rdf:li>
+          <rdf:li>muted greens</rdf:li>
+          <rdf:li>blues</rdf:li>
+          <rdf:li>and yellows</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daylight</schenesort:time_of_day>
+      <schenesort:subject>fantasy art</schenesort:subject>
+      <schenesort:scene>In this painting, we see a group of classical figures, which appear to be nymphs from mythology, in a fantastical setting that resembles the underworld or an enchanted forest. The figures are depicted with human characteristics but also display features of nature, like scales and fish-like tails, suggesting they are inhabitants of this magical realm. They are gathered around what seems to be a sleeping infant in a bower, which adds a sense of tender care and protection.</schenesort:scene>
+      <schenesort:width>4096</schenesort:width>
+      <schenesort:height>2540</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

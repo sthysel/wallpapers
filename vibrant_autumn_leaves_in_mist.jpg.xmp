@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">vibrant autumn leaves in mist.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>autumn</rdf:li>
+          <rdf:li>leafs</rdf:li>
+          <rdf:li>mist</rdf:li>
+          <rdf:li>bokeh</rdf:li>
+          <rdf:li>lights</rdf:li>
+          <rdf:li>nighttime</rdf:li>
+          <rdf:li>colorful</rdf:li>
+          <rdf:li>nature.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>enchanting</rdf:li>
+          <rdf:li>serene.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography with post-processing for artistic effect, giving it an almost painterly quality.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>purple</rdf:li>
+          <rdf:li>orange.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>nighttime or twilight given the warm and soft glow of colors on the leaves.</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>A close-up of colorful fall foliage with bokeh effect from glowing lights, creating a dreamy and ethereal atmosphere. The scene captures the vibrancy of autumn colors against a dark background.</schenesort:scene>
+      <schenesort:width>7680</schenesort:width>
+      <schenesort:height>4320</schenesort:height>
+      <schenesort:recommended_screen>8K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

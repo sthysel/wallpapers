@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">fantasy bridge over water at night</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>bridge</rdf:li>
+          <rdf:li>water</rdf:li>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>trees</rdf:li>
+          <rdf:li>lanterns</rdf:li>
+          <rdf:li>night</rdf:li>
+          <rdf:li>stars</rdf:li>
+          <rdf:li>clouds</rdf:li>
+          <rdf:li>swirls</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>enchanting</rdf:li>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>magical</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art or illustration</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>purple</rdf:li>
+          <rdf:li>warm golden tones from the lanterns</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>night</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>The image depicts a whimsical fantasy scene featuring a bridge that leads from the left edge of the frame into the middle, where it crosses over a body of water. On either side of the bridge are trees with glowing lanterns hanging from them, creating a warm and magical atmosphere. The sky is filled with stars, suggesting a night scene, and there's a cloud with swirling patterns adding to the fantastical elements.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1080</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

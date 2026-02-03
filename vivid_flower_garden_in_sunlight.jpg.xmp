@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">vivid flower garden in sunlight</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>garden</rdf:li>
+          <rdf:li>colorful</rdf:li>
+          <rdf:li>sunlight</rdf:li>
+          <rdf:li>bright colors</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>happy</rdf:li>
+          <rdf:li>joyful</rdf:li>
+          <rdf:li>lively</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>reds</rdf:li>
+          <rdf:li>yellows</rdf:li>
+          <rdf:li>blues</rdf:li>
+          <rdf:li>purples</rdf:li>
+          <rdf:li>pinks</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime (sunny)</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>A garden filled with a variety of colorful flowers, creating a patchwork quilt effect. The colors are bright and varied, with reds, yellows, blues, purples, and pinks all present. The overall mood is cheerful and lively due to the vibrant hues and clear sunlight illuminating the scene.</schenesort:scene>
+      <schenesort:width>5184</schenesort:width>
+      <schenesort:height>3456</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

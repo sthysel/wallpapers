@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">floral print fashion design</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>fashion</rdf:li>
+          <rdf:li>floral</rdf:li>
+          <rdf:li>botanical</rdf:li>
+          <rdf:li>pattern</rdf:li>
+          <rdf:li>repetition</rdf:li>
+          <rdf:li>colorful</rdf:li>
+          <rdf:li>greenery</rdf:li>
+          <rdf:li>full bloom</rdf:li>
+          <rdf:li>red</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>pink</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>vibrant</rdf:li>
+          <rdf:li>cheerful</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>fashion illustration or print design</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>red</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>black</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>fashion</schenesort:subject>
+      <schenesort:scene>The image shows a repeating pattern of floral and botanical motifs. There is a variety of flowers in full bloom, including red, white, and pink ones, interspersed with green foliage, creating an overall vibrant and lush look. The background is black, which makes the colorful design stand out prominently.</schenesort:scene>
+      <schenesort:width>2208</schenesort:width>
+      <schenesort:height>1242</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

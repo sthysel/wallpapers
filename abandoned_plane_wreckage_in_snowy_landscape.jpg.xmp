@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">abandoned plane wreckage in snowy landscape</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>plane wreckage</rdf:li>
+          <rdf:li>abandoned</rdf:li>
+          <rdf:li>winter</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>transportation</rdf:li>
+          <rdf:li>military</rdf:li>
+          <rdf:li>history</rdf:li>
+          <rdf:li>decay</rdf:li>
+          <rdf:li>weather conditions</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>melancholic</rdf:li>
+          <rdf:li>nostalgic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>grays</rdf:li>
+          <rdf:li>whites</rdf:li>
+          <rdf:li>blacks; snow-covered ground; cold blue and white sky</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>winter day</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The image depicts a winter scene with two old airplanes lying on their sides in the middle of a road that is partially covered in snow. There are no people visible, and the surrounding area appears desolate, with sparse vegetation and a few birds flying overhead.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1080</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

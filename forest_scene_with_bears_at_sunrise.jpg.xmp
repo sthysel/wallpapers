@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">forest scene with bears at sunrise</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>wildlife</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>animals</rdf:li>
+          <rdf:li>bears</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>sunrise</rdf:li>
+          <rdf:li>light</rdf:li>
+          <rdf:li>painting</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>peaceful</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>greens</rdf:li>
+          <rdf:li>browns</rdf:li>
+          <rdf:li>yellows</rdf:li>
+          <rdf:li>oranges</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunrise</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>This painting captures a moment in the life of bears in a dense forest. The light filtering through the trees creates a warm glow on the figures of the two bears, one standing and one resting on the ground. They are surrounded by various types of vegetation, including ferns and coniferous trees.</schenesort:scene>
+      <schenesort:width>5668</schenesort:width>
+      <schenesort:height>3840</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

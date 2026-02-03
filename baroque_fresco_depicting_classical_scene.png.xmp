@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">baroque fresco depicting classical scene</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>baroque</rdf:li>
+          <rdf:li>fresco</rdf:li>
+          <rdf:li>classical scene</rdf:li>
+          <rdf:li>roman empire</rdf:li>
+          <rdf:li>citizen gathering</rdf:li>
+          <rdf:li>grandiose</rdf:li>
+          <rdf:li>power</rdf:li>
+          <rdf:li>statues</rdf:li>
+          <rdf:li>historical figures</rdf:li>
+          <rdf:li>forum</rdf:li>
+          <rdf:li>courtyard</rdf:li>
+          <rdf:li>daily life</rdf:li>
+          <rdf:li>commerce</rdf:li>
+          <rdf:li>grandeur</rdf:li>
+          <rdf:li>power</rdf:li>
+          <rdf:li>rich detail</rdf:li>
+          <rdf:li>people</rdf:li>
+          <rdf:li>figures</rdf:li>
+          <rdf:li>activity</rdf:li>
+          <rdf:li>ancient rome</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>solemn</rdf:li>
+          <rdf:li>regal</rdf:li>
+          <rdf:li>historical</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>fresco painting (mural art)</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>earth tones</rdf:li>
+          <rdf:li>gold accents</rdf:li>
+          <rdf:li>deep blues</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>historical, classical</schenesort:subject>
+      <schenesort:scene>The painting is a grand fresco showcasing the grandeur and power of the Roman Empire. It captures a gathering of Roman citizens in what appears to be a forum or courtyard, with statues of significant historical figures as background elements. The artwork is rich in detail, with figures engaging in various activities that suggest daily life and commerce in ancient Rome.</schenesort:scene>
+      <schenesort:width>3820</schenesort:width>
+      <schenesort:height>2964</schenesort:height>
+      <schenesort:recommended_screen>Ultrawide 1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

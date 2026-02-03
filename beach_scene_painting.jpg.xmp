@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">beach scene painting</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>beach</rdf:li>
+          <rdf:li>figures</rdf:li>
+          <rdf:li>painting</rdf:li>
+          <rdf:li>historical</rdf:li>
+          <rdf:li>impressionistic</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>contemplative</rdf:li>
+          <rdf:li>serene</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>oil on canvas</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>earth tones</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>red</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>day</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>Group of figures on a sandy beach with water in the background. There is a central figure standing and others surrounding them, all looking towards something out of frame. The style appears to be historical or impressionistic, given the loose brushstrokes and realism.</schenesort:scene>
+      <schenesort:width>2000</schenesort:width>
+      <schenesort:height>1303</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

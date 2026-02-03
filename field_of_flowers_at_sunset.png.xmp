@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">field of flowers at sunset.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>scenic</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>field</rdf:li>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>stream</rdf:li>
+          <rdf:li>reflection</rdf:li>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>vibrant</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>calm</rdf:li>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>pink</rdf:li>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>green</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunset</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>The image shows a serene and picturesque scene of a field with blooming flowers set against the backdrop of a clear blue sky, where the sun is setting. The foreground features a small stream reflecting the colors of the sunset, and there are trees and bushes scattered throughout the landscape.</schenesort:scene>
+      <schenesort:width>3904</schenesort:width>
+      <schenesort:height>2240</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

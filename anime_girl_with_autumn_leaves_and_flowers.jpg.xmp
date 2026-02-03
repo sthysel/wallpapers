@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">anime girl with autumn leaves and flowers.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>anime</rdf:li>
+          <rdf:li>girl</rdf:li>
+          <rdf:li>autumn</rdf:li>
+          <rdf:li>leaves</rdf:li>
+          <rdf:li>flowers</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>fall</rdf:li>
+          <rdf:li>vibrant colors</rdf:li>
+          <rdf:li>fantasy</rdf:li>
+          <rdf:li>digital art</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>dreamy</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital illustration with vivid colors and fine details</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>blue</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunrise or sunset</schenesort:time_of_day>
+      <schenesort:subject>fantasy</schenesort:subject>
+      <schenesort:scene>The image depicts a stylized anime character in a close-up shot, set against a backdrop of vibrant fall foliage, including orange maple leaves and white cherry blossoms. The character is adorned with petals falling around her. There's a soft glow and a misty atmosphere suggesting the scene might be at sunrise or sunset.</schenesort:scene>
+      <schenesort:width>5920</schenesort:width>
+      <schenesort:height>3320</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">japanese woodblock print of great wave off kanagawa.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>great wave off kanagawa</rdf:li>
+          <rdf:li>japanese woodblock print</rdf:li>
+          <rdf:li>hokusai</rdf:li>
+          <rdf:li>ukiyo-e</rdf:li>
+          <rdf:li>seascape</rdf:li>
+          <rdf:li>ocean</rdf:li>
+          <rdf:li>monochrome</rdf:li>
+          <rdf:li>black ink</rdf:li>
+          <rdf:li>white paper.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>dramatic</rdf:li>
+          <rdf:li>powerful.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>traditional japanese woodblock print.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>green on the wave's base.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>day, as indicated by the light and shadows within the scene.</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>The wave's crest is breaking over the peak of the wave as it rolls towards the shore. The wave curls on itself creating a swirling pattern of blue and white, with green accents in the ocean at its base.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1200</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

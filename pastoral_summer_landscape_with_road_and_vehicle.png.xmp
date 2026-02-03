@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">pastoral summer landscape with road and vehicle.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>pastoral</rdf:li>
+          <rdf:li>rural</rdf:li>
+          <rdf:li>summer</rdf:li>
+          <rdf:li>travel</rdf:li>
+          <rdf:li>road trip</rdf:li>
+          <rdf:li>vehicle</rdf:li>
+          <rdf:li>car</rdf:li>
+          <rdf:li>trees</rdf:li>
+          <rdf:li>clouds</rdf:li>
+          <rdf:li>countryside</rdf:li>
+          <rdf:li>sunrise</rdf:li>
+          <rdf:li>sunset</rdf:li>
+          <rdf:li>journey</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>calm</rdf:li>
+          <rdf:li>serene</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>warm yellow hues</rdf:li>
+          <rdf:li>green from the foliage</rdf:li>
+          <rdf:li>contrasting blue of the sky and shadows.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>twilight hours around sunrise or sunset</schenesort:time_of_day>
+      <schenesort:subject>rural</schenesort:subject>
+      <schenesort:scene>A tranquil countryside scene at sunset or sunrise with a road leading to a distant house, under a sky filled with clouds that hint at rain. The air is clear and the lighting is warm, suggesting an idyllic moment of travel.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1200</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

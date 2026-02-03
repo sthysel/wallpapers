@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">seascape with boat and sharks</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>seascape</rdf:li>
+          <rdf:li>maritime</rdf:li>
+          <rdf:li>marine life</rdf:li>
+          <rdf:li>navigation</rdf:li>
+          <rdf:li>art genre</rdf:li>
+          <rdf:li>painting</rdf:li>
+          <rdf:li>impressionism</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>tense</rdf:li>
+          <rdf:li>dramatic</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>black</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime</schenesort:time_of_day>
+      <schenesort:subject>marine</schenesort:subject>
+      <schenesort:scene>Painting depicts a seafaring scene with a large boat on choppy waters, where two people are shown navigating the sea amidst surrounding marine life. The art style is impressionistic with visible brush strokes that capture the motion of the waves.</schenesort:scene>
+      <schenesort:width>5886</schenesort:width>
+      <schenesort:height>3540</schenesort:height>
+      <schenesort:recommended_screen>5K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

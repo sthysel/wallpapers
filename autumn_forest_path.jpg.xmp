@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">autumn forest path.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>autumn</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>path</rdf:li>
+          <rdf:li>bridge</rdf:li>
+          <rdf:li>stream</rdf:li>
+          <rdf:li>wooden</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>scenery</rdf:li>
+          <rdf:li>seasons</rdf:li>
+          <rdf:li>trees</rdf:li>
+          <rdf:li>colors</rdf:li>
+          <rdf:li>lighting</rdf:li>
+          <rdf:li>seasonal changes</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>calming</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>photography</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>orange</rdf:li>
+          <rdf:li>red</rdf:li>
+          <rdf:li>brown</rdf:li>
+          <rdf:li>green</rdf:li>
+          <rdf:li>yellow</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>daytime (late afternoon)</schenesort:time_of_day>
+      <schenesort:subject>landscape</schenesort:subject>
+      <schenesort:scene>A wooden bridge over a small stream in a forested area during autumn. The leaves on the ground and surrounding trees have turned vibrant shades of orange and red, creating a picturesque scene indicative of fall season. Sunlight filters through the foliage, illuminating patches of the path with warm light.</schenesort:scene>
+      <schenesort:width>2560</schenesort:width>
+      <schenesort:height>1600</schenesort:height>
+      <schenesort:recommended_screen>1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

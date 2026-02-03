@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">ancient ruins in a misty jungle with glowing vegetation.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>ancient ruins</rdf:li>
+          <rdf:li>jungle</rdf:li>
+          <rdf:li>misty</rdf:li>
+          <rdf:li>overgrown</rdf:li>
+          <rdf:li>vines</rdf:li>
+          <rdf:li>stone structure</rdf:li>
+          <rdf:li>fallen tree trunk</rdf:li>
+          <rdf:li>entrance</rdf:li>
+          <rdf:li>vegetation</rdf:li>
+          <rdf:li>glowing spots</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>mysterious</rdf:li>
+          <rdf:li>serene</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>green</rdf:li>
+          <rdf:li>mossy greens</rdf:li>
+          <rdf:li>blue-greens</rdf:li>
+          <rdf:li>grey mist</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>evening or dawn, given the soft lighting and presence of mist.</schenesort:time_of_day>
+      <schenesort:subject>nature, architecture, fantasy</schenesort:subject>
+      <schenesort:scene>The image depicts an ancient stone structure overgrown with lush greenery and vines. A large fallen tree trunk serves as the main entrance to the ruins. Mist hangs in the air, partially obscuring the view of the structure. There are glowing spots on the plants, adding a mystical atmosphere to the scene.</schenesort:scene>
+      <schenesort:width>1920</schenesort:width>
+      <schenesort:height>1200</schenesort:height>
+      <schenesort:recommended_screen>1080p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

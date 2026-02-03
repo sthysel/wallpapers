@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">abstract pattern with light gray background and darker gray details.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>abstract</rdf:li>
+          <rdf:li>pattern</rdf:li>
+          <rdf:li>digital</rdf:li>
+          <rdf:li>noise</rdf:li>
+          <rdf:li>visual noise</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>none (as it is an abstract image)</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>digital art</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>grayscale</rdf:li>
+          <rdf:li>light gray</rdf:li>
+          <rdf:li>dark gray</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>unknown</schenesort:time_of_day>
+      <schenesort:subject>abstract</schenesort:subject>
+      <schenesort:scene>The image depicts an abstract pattern that seems to be generated from some form of algorithmic or digital art process. It features a lighter grey background, overlaid with darker grey patterns that could represent a type of noise or a form of visual noise.</schenesort:scene>
+      <schenesort:width>3440</schenesort:width>
+      <schenesort:height>1440</schenesort:height>
+      <schenesort:recommended_screen>Ultrawide 1440p</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

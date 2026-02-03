@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schenesort="http://github.com/sthysel/schenesort/" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li rdf:parseType="Literal">landscape at sunset or sunrise with a tree in the foreground.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>sunrise/sunset</rdf:li>
+          <rdf:li>trees</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>rural</rdf:li>
+          <rdf:li>pastoral</rdf:li>
+          <rdf:li>mountainous</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>clouds</rdf:li>
+          <rdf:li>peaceful</rdf:li>
+          <rdf:li>serene</rdf:li>
+          <rdf:li>tranquil.</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <schenesort:ai_model>llava:13b</schenesort:ai_model>
+      <schenesort:mood>
+        <rdf:Bag>
+          <rdf:li>calm</rdf:li>
+          <rdf:li>contemplative</rdf:li>
+          <rdf:li>picturesque</rdf:li>
+          <rdf:li>idyllic.</rdf:li>
+        </rdf:Bag>
+      </schenesort:mood>
+      <schenesort:style>painting or illustration, likely from the romantic period, characterized by a focus on nature and scenic beauty.</schenesort:style>
+      <schenesort:colors>
+        <rdf:Bag>
+          <rdf:li>warm golden hues dominate the sky</rdf:li>
+          <rdf:li>while the green of the tree stands out against the softer tones of the landscape.</rdf:li>
+        </rdf:Bag>
+      </schenesort:colors>
+      <schenesort:time_of_day>sunrise or sunset is suggested by the warm light and long shadows cast across the scene.</schenesort:time_of_day>
+      <schenesort:subject>nature</schenesort:subject>
+      <schenesort:scene>A tranquil landscape featuring a bare tree in a field with distant mountains. The sky is filled with clouds and there's a soft, golden light illuminating the scene.</schenesort:scene>
+      <schenesort:width>4096</schenesort:width>
+      <schenesort:height>3224</schenesort:height>
+      <schenesort:recommended_screen>4K</schenesort:recommended_screen>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
