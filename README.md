@@ -28,7 +28,7 @@ exec_always --no-startup-id feh --bg-scale ~/.wallpaper/
 schenesort index ./collection
 schenesort index ./collection --rebuild   # rebuild from scratch
 schenesort index ./collection
- --prune     # remove deleted files
+schenesort index ./collection --prune     # remove deleted files
 
 # Query collection
 
