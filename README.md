@@ -1,6 +1,8 @@
 # My collection of curious wallpapers
 
 This collection is managed by [schenesort](https://github.com/sthysel/schenesort) a tool I made to sort scenes.
+schenesort uses a classifying vision model (llava) to look at a scene and suggest a filename that makes more sense than
+the names I had.
 
 ## hyprland using waypaper
 
@@ -23,11 +25,13 @@ exec_always --no-startup-id feh --bg-scale ~/.wallpaper/
 
 ```bash
 # Build/update the index
-schenesort index ~/wallpapers
-schenesort index ~/wallpapers --rebuild   # rebuild from scratch
-schenesort index ~/wallpapers --prune     # remove deleted files
+schenesort index ./collection
+schenesort index ./collection --rebuild   # rebuild from scratch
+schenesort index ./collection
+ --prune     # remove deleted files
 
-# Query wallpapers
+# Query collection
+
 schenesort get --tag cyberpunk
 schenesort get --mood peaceful --style photography
 schenesort get --screen 4K --subject landscape
@@ -36,7 +40,8 @@ schenesort get --min-width 3840
 schenesort get -q "mountain"              # text search
 
 # Random selection
-schenesort get --random -n 10             # 10 random wallpapers
+schenesort get --random -n 10             # 10 random collection
+
 schenesort get -1                         # single random wallpaper
 schenesort get -1 --mood dramatic         # random with filter
 
