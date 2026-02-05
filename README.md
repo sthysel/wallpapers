@@ -6,7 +6,7 @@ This collection is managed by [schenesort](https://github.com/sthysel/schenesort
 schenesort uses a classifying vision model (llava) to look at a scene and suggest a filename that makes more sense than
 the names I had.
 
-## hyprland using waypaper
+## hyprland using hyprpaper
 
 The file directly
 ```
