@@ -1,5 +1,7 @@
 # My collection of curious wallpapers
 
+![collage](trees.png)
+
 This collection is managed by [schenesort](https://github.com/sthysel/schenesort) a tool I made to sort scenes.
 schenesort uses a classifying vision model (llava) to look at a scene and suggest a filename that makes more sense than
 the names I had.
